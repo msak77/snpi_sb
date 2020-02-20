@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>731e9a3d85ce23007f4421bc4c846b9a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="HHD Users" name="HHD Users">981e9a3d85ce23007f4421bc4c846b7d</group>
+        <inherits>true</inherits>
+        <role display_value="x_snc_hhd.user_role" name="x_snc_hhd.user_role">668b5ab985ce23007f4421bc4c846bec</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 02:41:56</sys_created_on>
+        <sys_id>731e9a3d85ce23007f4421bc4c846b9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 02:41:56</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 02:48:50</sys_created_on>
+        <sys_id>f0bf567d85ce23007f4421bc4c846b27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2018-11-29 11:41:56</sys_name>
+        <sys_package display_value="HHD" source="x_snc_hhd">a74b5ab985ce23007f4421bc4c846b7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHD">a74b5ab985ce23007f4421bc4c846b7f</sys_scope>
+        <sys_update_name>sys_metadata_link_f0bf567d85ce23007f4421bc4c846b27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 02:48:50</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

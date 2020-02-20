@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_hhd.user_role" name="x_snc_hhd.user_role">668b5ab985ce23007f4421bc4c846bec</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 02:30:40</sys_created_on>
+        <sys_id>228b1eb985ce23007f4421bc4c846b5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>668b5ab985ce23007f4421bc4c846bec</sys_name>
+        <sys_package display_value="HHD" source="x_snc_hhd">a74b5ab985ce23007f4421bc4c846b7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHD">a74b5ab985ce23007f4421bc4c846b7f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_228b1eb985ce23007f4421bc4c846b5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 02:30:40</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

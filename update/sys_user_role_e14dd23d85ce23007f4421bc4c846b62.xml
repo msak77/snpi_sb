@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_hhd.admin_role</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin_role</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 02:38:27</sys_created_on>
+        <sys_id>e14dd23d85ce23007f4421bc4c846b62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_hhd.admin_role</sys_name>
+        <sys_package display_value="HHD" source="x_snc_hhd">a74b5ab985ce23007f4421bc4c846b7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHD">a74b5ab985ce23007f4421bc4c846b7f</sys_scope>
+        <sys_update_name>sys_user_role_e14dd23d85ce23007f4421bc4c846b62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 02:38:27</sys_updated_on>
+    </sys_user_role>
+</record_update>
